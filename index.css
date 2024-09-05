@@ -4,5 +4,9 @@
 
 
 .linea{
-    background-color:
+    background-color: darkolivegreen;
+    color: white;
+    padding: 1rem;
+    border-radius: 5px;
+    display: flex;
 }
