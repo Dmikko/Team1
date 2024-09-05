@@ -6,3 +6,27 @@
 .linea{
     background-color:
 }
+
+.lukas {
+    text-align: center;
+    background: rgb(31,77,13);
+    background: linear-gradient(90deg, rgba(31,77,13,1) 0%, rgba(69,245,47,1) 100%);
+    color: #edffec;
+    padding: 3vh;
+    font-size: 2rem;
+    font-family: Roboto, sans-serif;
+}
+
+.lukas img {
+    width: 20vw;
+    border-radius: 10vh;
+    border: .3vw solid black;
+    box-shadow: 0 .5vw 4vw 0 #03110a, 0 .5vw 4vw 0 #03110a ;
+}
+
+.lukas ul {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    list-style-type: none;
+}
