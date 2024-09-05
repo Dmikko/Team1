@@ -1,6 +1,9 @@
 
 
-
+.Mike{
+    display:flex;
+    justify-content: space-evenly;
+}
 
 
 .linea{
