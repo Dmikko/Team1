@@ -1,3 +1,29 @@
+header {
+    background-color: darkolivegreen;
+    padding: 3rem;
+    border-radius: 5px;
+    display: flex;
+}
+
+header nav {
+    color: white;
+    background-color: darkolivegreen;
+    font-size: x-large;
+    display: flex;
+    align-items: center;
+}
+
+header li {
+    list-style-type: none;
+    margin: 15px;
+    display: flex;
+}
+
+
+header a {
+    color: white;
+    text-decoration: none;
+}
 
 
 
